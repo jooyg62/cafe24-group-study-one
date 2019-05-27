@@ -1,0 +1,12 @@
+JConsole 이란?
+- GUI기반 JVM 정보를 제공하는 도구로 JDK 5 이상부터 지원한다.
+- Heap 사용량, 실행 중인 Thread 수, 로딩된 Class 수, CPU 사용률 등 모니터링.
+- 그 외, JVM 요약정보(JVM 실행 옵션, Classpath, GC 옵션 등의 정보를 제공)
+
+JMC vs JConsole 비교
+- JMC가 더 나중에 나온 버전이므로 기능이 더 풍부하다. But, JDK 7 이후 버전에서만 지원한다.
+
+<img src="https://user-images.githubusercontent.com/18259297/58416183-b676f600-80bb-11e9-8f82-2b015478e592.jpg"></img>
+
+이미지 참조
+Oracle Java Tutorials Blog (https://blogs.oracle.com/thejavatutorials/introducing-jconsole)
