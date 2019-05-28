@@ -1,0 +1,6 @@
+VisulaVM
+- Open Source 제품으로 제공되다가 JDK 6 Update 7 이상부터 JDK 안에 포함되었다. (Java 6 버전 이상에서 동작)
+- JConsole -> VisualVM -> JMC로 모니터링/프로파일링 도구가 점차 진화되었다.
+
+<img src="https://user-images.githubusercontent.com/18259297/58416900-08b91680-80be-11e9-8f5e-e8854c474204.PNG"></img>
+<img src="https://user-images.githubusercontent.com/18259297/58416918-17073280-80be-11e9-9c25-13ab3df1177b.PNG"></img>
