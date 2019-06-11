@@ -226,6 +226,8 @@ Thread의 상태는 `Java.lang.Thread` 클래스 내부에 `State`라는 이름�
 
 ### 스레드 덤프
 
+자바에서는 스레드 동기화 문제를 분석하는 가장 기본적인 방법으로서, 스레드 덤프를 통해 분석한다.
+
 ```java
 public class SingleThreadEx2 implements Runnable{
 
