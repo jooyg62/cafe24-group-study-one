@@ -162,6 +162,12 @@ public class ThreadA {
 
 
 
+---
+
+---
+
+
+
 ## Thread 상태
 
 Thread의 상태는 `Java.lang.Thread` 클래스 내부에 `State`라는 이름을 가진 `Enum`으로 선언되어 있다.
